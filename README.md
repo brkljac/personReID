@@ -174,7 +174,7 @@ ___
 <br />
 
 
-[2] Brkljač, B., Kalušev, V., Popović, B., Sečujski, M. (**2025**). **Transforming faces into video stories - VideoFace2.0**. arXiv preprint [**arXiv:2505.02060**](https://arxiv.org/abs/2505.02060)
+[2] Brkljač, B., & Brkljač, M. (**2025**). **Person detection and re-identification in open-world settings of retail stores and public spaces**. arXiv preprint [**arXiv:2505.00772**](https://arxiv.org/abs/2505.00772)
 
 <pre><code>
       @misc{brkljac2025persondetectionreidentificationopenworld,
