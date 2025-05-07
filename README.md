@@ -4,6 +4,12 @@
 #### Tested on Oak-D lite
 
 
+### Authors: Branko Brkljač, Milan Brkljač
+
+## Abstract
+
+Practical applications of computer vision in smart cities usually assume system integration and operation in challenging open-world environments. In the case of person re-identification task the main goal is to retrieve information whether the specific person has appeared in another place at a different time instance of the same video, or over multiple camera feeds. This typically assumes collecting raw data from video surveillance cameras in different places and under varying illumination conditions. In the considered open-world setting it also requires detection and localization of the person inside the analyzed video frame before the main re-identification step. With multi-person and multi-camera setups the system complexity becomes higher, requiring sophisticated tracking solutions and re-identification models. In this work we will discuss existing challenges in system design architectures, consider possible solutions based on different computer vision techniques, and describe applications of such systems in retail stores and public spaces for improved marketing analytics. In order to analyse sensitivity of person re-identification task under different open-world environments, a performance of one close to real-time solution will be demonstrated over several video captures and live camera feeds. Finally, based on conducted experiments we will indicate further research directions and possible system improvements. 
+
 ___
 
 ✅ _Main characteristics include:_
@@ -22,9 +28,9 @@ ___
 
 	2)&nbsp;&nbsp;&nbsp;person-detection-retail-0013_openvino_2022.1_6shave
 
-* Hardware encoding of output video streams
+⭐* Hardware encoding of output video streams
 
-* Test experiments: person re-identification in indoor and outdoor spaces under different conditions
+⚡ * Test experiments: person re-identification in indoor and outdoor spaces under different conditions
 
 
 ###  For more information, please check our conference paper on the link below
@@ -38,7 +44,7 @@ ___
 <img src="./readmeFiles/Oak-D-lite.jpg" alt="Image Link" style="max-width: 300px; max-height: 300px; width: 45%; height: auto;">
 <br />
 
-| Feature  | Specification|
+| 🚀 Feature  | 📝 Specification|
 |----------|----------|
 | Processor | Intel Movidius Myriad X VPU|
 | Cameras	| 1x 13 MP (4208 x 3120) RGB (IMX214, rolling shutter)
@@ -165,10 +171,9 @@ The presented test videos were recorded for research purposes during live experi
 
 ___
 
-
 <br />
 
-### For more information or if you would like to use some of this content, please consider citing the following paper:
+## How to cite:
 
 <br />
 
