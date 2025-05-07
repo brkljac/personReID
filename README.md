@@ -5,6 +5,9 @@
 
 
 ___
+
+✅ _Main characteristics include:_
+
 * **Near real-time demonstration of person re-identification (ReID) task using OAK-D embedded vision platform and OpenVINO™ framework**
 
 * Achieves ~10fps on Intel® Movidius™ Myriad™ X vision processor and OAK-D lite device (uses only color camera)**
@@ -23,7 +26,10 @@ ___
 
 * Test experiments: person re-identification in indoor and outdoor spaces under different conditions
 
-* ####  For more information please consult the corresponding conference paper below
+
+###  For more information, please check our conference paper on the link below
+
+📄 Publication preprint available at: [![DOI:10.48550/arXiv.2505.00772](https://img.shields.io/badge/DOI-10.48550/arXiv.2505.00772-blue)](https://doi.org/10.48550/arXiv.2505.00772)
 
 
 ### Oak-D lite:
@@ -59,7 +65,7 @@ ___
 
 
  
-![Image Link](./readmeFiles/personReID_visualization1.jpg) 
+![Results visualization 1](./readmeFiles/personReID_visualization1.jpg) 
 
 ### Results visualization 1:
 **(a)** succesful ReID, but with low fps rate due to dynamic background noise; 
@@ -71,7 +77,7 @@ ___
 ___
 
 
-![Image Link](./readmeFiles/personReID_visualization2.jpg)
+![Results visualization 2](./readmeFiles/personReID_visualization2.jpg)
 
 ### Results visualization 2:
 **(a)** crowded indoor scene - successful ReID, but with low fps; 
@@ -94,11 +100,11 @@ ___
 
 <img src="./readmeFiles/personReID_testVideo1.gif" width=75% height=75%>
 
-[--->>> personReID_testVideo1_real_fps](./testVideos/testVideo1_TreeSequence/personReID_testVideo1_real_fps.mp4 "personReID_testVideo1_real_fps")
+▶️ [--->>> personReID_testVideo1_real_fps](./testVideos/testVideo1_TreeSequence/personReID_testVideo1_real_fps.mp4 "personReID_testVideo1_real_fps")
 
-[--->>> personReID_testVideo1_rec](./testVideos/testVideo1_TreeSequence/personReID_testVideo1_rec.mp4 "personReID_testVideo1_real_fps")
+▶️ [--->>> personReID_testVideo1_rec](./testVideos/testVideo1_TreeSequence/personReID_testVideo1_rec.mp4 "personReID_testVideo1_real_fps")
 
-[--->>> testVideo1_TreeSequence](./testVideos/testVideo1_TreeSequence/unprocessed/testVideo1_TreeSequence.mp4 "testVideo1_TreeSequence")
+▶️ [--->>> testVideo1_TreeSequence](./testVideos/testVideo1_TreeSequence/unprocessed/testVideo1_TreeSequence.mp4 "testVideo1_TreeSequence")
 
 ___
 
@@ -108,11 +114,11 @@ ___
 
 <img src="./readmeFiles/personReID_testVideo2.gif" width=75% height=75%>
 
-[--->>> personReID_testVideo2_real_fps](./testVideos/testVideo2_LightSequence/personReID_testVideo2_real_fps.mp4 "personReID_testVideo2_real_fps")
+▶️ [--->>> personReID_testVideo2_real_fps](./testVideos/testVideo2_LightSequence/personReID_testVideo2_real_fps.mp4 "personReID_testVideo2_real_fps")
 
-[--->>> personReID_testVideo2_rec](./testVideos/testVideo2_LightSequence/personReID_testVideo2_rec.mp4 "personReID_testVideo2_real_fps")
+▶️ [--->>> personReID_testVideo2_rec](./testVideos/testVideo2_LightSequence/personReID_testVideo2_rec.mp4 "personReID_testVideo2_real_fps")
 
-[--->>> testVideo2_LightSequence](./testVideos/testVideo2_LightSequence/unprocessed/testVideo2_LightSequence.mp4 "testVideo2_LightSequence")
+▶️ [--->>> testVideo2_LightSequence](./testVideos/testVideo2_LightSequence/unprocessed/testVideo2_LightSequence.mp4 "testVideo2_LightSequence")
 
 
 ___
@@ -123,11 +129,11 @@ ___
 
 <img src="./readmeFiles/personReID_testVideo3.gif" width=75% height=75%>
 
-[--->>> personReID_testVideo3_real_fps](./testVideos/testVideo3_StoreSequence1/personReID_testVideo3_real_fps.mp4 "personReID_testVideo3_real_fps")
+▶️ [--->>> personReID_testVideo3_real_fps](./testVideos/testVideo3_StoreSequence1/personReID_testVideo3_real_fps.mp4 "personReID_testVideo3_real_fps")
 
-[--->>> personReID_testVideo3_rec](./testVideos/testVideo3_StoreSequence1/personReID_testVideo3_rec.mp4 "personReID_testVideo3_real_fps")
+▶️ [--->>> personReID_testVideo3_rec](./testVideos/testVideo3_StoreSequence1/personReID_testVideo3_rec.mp4 "personReID_testVideo3_real_fps")
 
-[--->>> testVideo3_StoreSequence1](./testVideos/testVideo3_StoreSequence1/unprocessed/testVideo3_StoreSequence1.mp4 "testVideo3_StoreSequence1")
+▶️ [--->>> testVideo3_StoreSequence1](./testVideos/testVideo3_StoreSequence1/unprocessed/testVideo3_StoreSequence1.mp4 "testVideo3_StoreSequence1")
 
 
 ___
@@ -138,11 +144,23 @@ ___
 
 <img src="./readmeFiles/personReID_testVideo4.gif" width=75% height=75%>
 
-[--->>> personReID_testVideo4_real_fps](./testVideos/testVideo4_StoreSequence2/personReID_testVideo4_real_fps.mp4 "personReID_testVideo4_real_fps")
+▶️ [--->>> personReID_testVideo4_real_fps](./testVideos/testVideo4_StoreSequence2/personReID_testVideo4_real_fps.mp4 "personReID_testVideo4_real_fps")
 
-[--->>> personReID_testVideo4_rec](./testVideos/testVideo4_StoreSequence1/personReID_testVideo4_rec.mp4 "personReID_testVideo4_real_fps")
+▶️ [--->>> personReID_testVideo4_rec](./testVideos/testVideo4_StoreSequence1/personReID_testVideo4_rec.mp4 "personReID_testVideo4_real_fps")
 
-[--->>> testVideo4_StoreSequence2](./testVideos/testVideo4_StoreSequence2/unprocessed/testVideo4_StoreSequence2.mp4 "testVideo4_StoreSequence2")
+▶️ [--->>> testVideo4_StoreSequence2](./testVideos/testVideo4_StoreSequence2/unprocessed/testVideo4_StoreSequence2.mp4 "testVideo4_StoreSequence2")
+
+___
+
+<br />
+
+## Licenses:
+
+Presented implementation and experimental results are based on the pre-trained models kindly provided by the [OpenVINO™ project](https://github.com/openvinotoolkit): Open-source toolkit for optimizing and deploying AI inference.
+  
+The presented test videos were recorded for research purposes during live experiments and are provided under the Creative Commons Attribution-NonCommercial (CC BY-NC) license.
+  
+**personReID** is released under the MIT License terms in the provided LICENSE file.
 
 
 ___
@@ -174,7 +192,7 @@ ___
 <br />
 
 
-[2] Brkljač, B., & Brkljač, M. (**2025**). **Person detection and re-identification in open-world settings of retail stores and public spaces**. arXiv preprint [**arXiv:2505.00772**](https://arxiv.org/abs/2505.00772)
+[2] Brkljač, B., Brkljač, M. (**2025**). **Person detection and re-identification in open-world settings of retail stores and public spaces**. arXiv preprint [**arXiv:2505.00772**](https://arxiv.org/abs/2505.00772)
 
 <pre><code>
       @misc{brkljac2025persondetectionreidentificationopenworld,
